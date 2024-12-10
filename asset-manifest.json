@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.195eedd3.css",
+    "main.js": "/static/js/main.a11ee980.js",
+    "static/js/206.976787ae.chunk.js": "/static/js/206.976787ae.chunk.js",
+    "static/media/Illustration.png": "/static/media/Illustration.db79430f2a47b1d636d9.png",
+    "static/media/logo.png": "/static/media/logo.eab17960a4037364d469.png",
+    "static/media/fluid-icons.svg": "/static/media/fluid-icons.583850a426583410ea8e.svg",
+    "static/media/skip-forward.svg": "/static/media/skip-forward.0b7ba558ff785aac218a.svg",
+    "static/media/skip-backward.svg": "/static/media/skip-backward.439b042e4d7ee9fe107a.svg",
+    "static/media/telegram-brands-solid.svg": "/static/media/telegram-brands-solid.3e562faa2c32fa689ccbd4976d19d456.svg",
+    "index.html": "/index.html",
+    "static/media/youtube-brands-solid.svg": "/static/media/youtube-brands-solid.f9f2d696a64bd455b0ce4e0f8d815f43.svg",
+    "static/media/fluid-spinner.svg": "/static/media/fluid-spinner.752b43429bb9ac6dc9e4.svg",
+    "static/media/miniplayer-toggle-off.svg": "/static/media/miniplayer-toggle-off.76e6fc38ebf88d41fee3.svg",
+    "static/media/miniplayer-toggle-on.svg": "/static/media/miniplayer-toggle-on.d896e5e9d302738683b8.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.f351818e2777dc817a97.svg"
+  },
+  "entrypoints": [
+    "static/css/main.195eedd3.css",
+    "static/js/main.a11ee980.js"
+  ]
+}
